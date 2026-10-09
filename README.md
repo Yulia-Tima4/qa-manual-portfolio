@@ -19,8 +19,8 @@
 
 ## 🎯 Что тестируется
 
-**Сервис:** Lomonosov School — онлайн-школа подготовки к ЕГЭ/ОГЭ
-**URL:** [portal.lomonosov.school](https://portal.lomonosov.school)
+**Сервис:** Lomonosov School — онлайн-школа подготовки к ЕГЭ/ОГЭ<br/>
+**URL:** [portal.lomonosov.school](https://portal.lomonosov.school)<br/>
 **Тип:** веб-приложение
 
 **Ключевые пользовательские сценарии:**
