@@ -37,5 +37,6 @@
 - **Email:** [timacheva@icloud.com](mailto:timacheva@icloud.com)
 - **Telegram:** [@tima4_yu](https://t.me/tima4_yu)
 - **GitHub:** [Yulia-Tima4](https://github.com/Yulia-Tima4)
+🌐 **Сайт-визитка:** [yulia-tima4.github.io/portfolio-website](https://yulia-tima4.github.io/portfolio-website/)
 
 **Открыта к:** QA Engineer · удалёнка / гибрид / офис
