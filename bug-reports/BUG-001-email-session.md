@@ -3,7 +3,6 @@
 **Сервис:** Hiiire — HR-сервис<br/>
 **Статус:** Bugs<br/>
 **Severity:** Major<br/>
-**Priority:** High<br/>
 **Автор:** Юлия Тимачева<br/>
 
 ---
